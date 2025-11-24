@@ -19,7 +19,7 @@ return {
       --
       -- See :h blink-cmp-config-keymap for defining your own keymap
       -- keymap = { preset = 'default' },
-      keymap = { preset = 'super-tab' },
+      keymap = { preset = 'enter' },
 
       appearance = {
         nerd_font_variant = 'mono'
